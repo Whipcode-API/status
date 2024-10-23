@@ -5,10 +5,10 @@ sites:
   - name: Whipcode API
     url: $WHIPCODE_BACKEND
     method: POST
-    icon: https://icons.duckduckgo.com/ip3/null.ico
+    icon: https://av9.dev/whipcode/assets/null.png
   - name: Whipcode Site
     url: https://whipcode.app
-    icon: https://icons.duckduckgo.com/ip3/null.ico
+    icon: https://av9.dev/whipcode/assets/null.png
   - name: RapidAPI Proxy
     url: https://whipcode.p.rapidapi.com
     method: POST
@@ -16,7 +16,7 @@ sites:
       - 200
       - 201
       - 401
-    icon: https://icons.duckduckgo.com/ip3/null.ico
+    icon: https://av9.dev/whipcode/assets/null.png
 
 status-website:
   introTitle: "**Uptime Monitor**"
