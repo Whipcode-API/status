@@ -22,7 +22,7 @@
     "url": "https://whipcode.app",
     "icon": "https://av9.dev/whipcode/assets/null.png",
     "slug": "whipcode-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 300,
     "timeMonth": 214,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-16": 0
+    }
   },
   {
     "name": "RapidAPI Proxy",
