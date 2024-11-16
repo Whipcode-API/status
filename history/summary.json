@@ -22,17 +22,17 @@
     "url": "https://whipcode.app",
     "icon": "https://av9.dev/whipcode/assets/null.png",
     "slug": "whipcode-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "96.71%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 305,
-    "timeDay": 198,
-    "timeWeek": 263,
-    "timeMonth": 209,
-    "timeYear": 305,
+    "time": 300,
+    "timeDay": 172,
+    "timeWeek": 248,
+    "timeMonth": 205,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2024-11-16": 48
     }
