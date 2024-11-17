@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 234,
-    "timeWeek": 139,
-    "timeMonth": 129,
-    "timeYear": 162,
+    "time": 160,
+    "timeDay": 174,
+    "timeWeek": 131,
+    "timeMonth": 127,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   },
   {
@@ -28,14 +28,32 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 298,
-    "timeDay": 243,
-    "timeWeek": 263,
-    "timeMonth": 215,
-    "timeYear": 298,
+    "time": 295,
+    "timeDay": 226,
+    "timeWeek": 255,
+    "timeMonth": 213,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2024-11-16": 19
     }
+  },
+  {
+    "name": "Whipcode Docs",
+    "url": "https://docs.whipcode.app",
+    "icon": "https://av9.dev/whipcode/assets/null.png",
+    "slug": "whipcode-docs",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 444,
+    "timeDay": 444,
+    "timeWeek": 444,
+    "timeMonth": 444,
+    "timeYear": 444,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RapidAPI Proxy",
@@ -48,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 309,
-    "timeWeek": 266,
-    "timeMonth": 245,
-    "timeYear": 231,
+    "time": 230,
+    "timeDay": 269,
+    "timeWeek": 259,
+    "timeMonth": 243,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
