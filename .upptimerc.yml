@@ -9,6 +9,9 @@ sites:
   - name: Whipcode Site
     url: https://whipcode.app
     icon: https://av9.dev/whipcode/assets/null.png
+  - name: Whipcode Docs
+    url: https://docs.whipcode.app
+    icon: https://av9.dev/whipcode/assets/null.png
   - name: RapidAPI Proxy
     url: https://whipcode.p.rapidapi.com
     method: POST
