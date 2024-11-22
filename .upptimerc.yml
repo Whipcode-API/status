@@ -8,6 +8,9 @@ sites:
     icon: https://av9.dev/whipcode/assets/null.png
   - name: Whipcode Site
     url: https://whipcode.app
+    expectedStatusCodes:
+      - 200
+      - 429
     icon: https://av9.dev/whipcode/assets/null.png
   - name: Whipcode Docs
     url: https://docs.whipcode.app
