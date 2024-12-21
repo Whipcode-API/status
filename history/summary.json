@@ -31,7 +31,7 @@
     "time": 249,
     "timeDay": 120,
     "timeWeek": 203,
-    "timeMonth": 218,
+    "timeMonth": 230,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2024-11-22": 20,
@@ -61,7 +61,7 @@
     "url": "https://whipcode.p.rapidapi.com",
     "icon": "https://av9.dev/whipcode/assets/null.png",
     "slug": "rapid-api-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -72,6 +72,8 @@
     "timeWeek": 278,
     "timeMonth": 223,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-21": 0
+    }
   }
 ]
